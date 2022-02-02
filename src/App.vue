@@ -2,13 +2,12 @@
   <div class="title"> Questões Vue.js 3 </div>
   <div class="info">
     Abaixo estão três componentes cuja estrutura apresentada deve ser modificada a fim
-    de replicar as funcionalidades nele pedidas. Seu código deve contemplar todas as
-    funcionalidades requisitadas e mudanças visuais também são bem vindas e encorajadas
-    a fim de tornar a página mais esteticamente agradável e congruente.
+    de replicar as funcionalidades neles pedidas. Seu código deve contemplar todas as
+    funcionalidades requisitadas, bem como as mudanças visuais a fim de tornar a página esteticamente mais agradável e adequada a experiência do usuário.
   </div>
   <Senha />
-  <Lista :dados="dadosLista" @mudancaEmitida="mudancaLista" />
   <DropDown ref="dd" :opcoesDD="opcoesSelect" />
+  <Lista :dados="dadosLista" @mudancaEmitida="mudancaLista" />
   <br />
   <div class="info msg">
     Em caso de dúvida entre em contato pelo email <a href="mailto:mardt@usp.br">mardt@usp.br</a>.
@@ -55,6 +54,8 @@
     },
     methods: {
       mudancaLista() {
+        console.log('Lista recebida!')
+        // Exiba a lista editada
       }
     },
     mounted() {
