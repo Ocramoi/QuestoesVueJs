@@ -1,4 +1,5 @@
 <template>
+    <div class="question-title">Questão 1</div>
     <div class="question-title">Processamento de senha:</div>
     <div class="question-text">
         Crie funções de conferência para cada elemento necessário à entrada de senha

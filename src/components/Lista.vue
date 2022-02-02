@@ -1,11 +1,9 @@
 <template>
+    <div class="question-title">Questão 3</div>
     <div class="question-title">Edição de entradas:</div>
     <div class="question-text">
-        O componente receberá uma lista de objetos com a estrutura a seguir cujas
-        propriedades devem ser inputs no componente <tt>div.entrada</tt>, atualizando
-        seus valores no componente pai caso editadas. Cada entrada na lista dada deve
-        pertencer ao seu próprio elemento. Exiba todas corretamente, exiba os indicadores
-        corretos e repasse os dados ao componente pai ao atualizar.
+        Modifique este componente para que exiba as entradas da lista de objetos (com a estrutura abaixo) cujas as propriedades devem ser inputs no componente <tt>div.entrada</tt>, atualizando
+        seus valores no componente pai caso editadas. Cada objeto na lista deve pertencer ao seu próprio elemento. Exiba todos corretamente, exiba os indicadores corretos e repasse os dados ao componente pai ao se clicar no botão atualizar.
         <br />
         <pre class="json-example"><i>// Entrada:</i>
 <code>{
