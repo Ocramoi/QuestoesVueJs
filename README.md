@@ -31,7 +31,7 @@ _(Assim seu código será rodado em hot-reload, replicando suas alterações ao 
 Fique à vontade para desenvolver seu código com seu estilo habitual, o único requisito de seu código será funcional!
 
 ## Observações
-Em caso de dúvida, fique à vontade para enviar um email para [mailto:mardt@usp.br](mardt@usp.br) para saná-la.
+Em caso de dúvida, fique à vontade para enviar um email para [mardt@usp.br](mailto:mardt@usp.br) para saná-la.
 
 Boa sorte e bom trabalho!
 (＾▽＾)
