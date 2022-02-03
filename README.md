@@ -11,7 +11,16 @@ Os conhecimentos explorados em cada um replicam parte representativa das necessi
 ## Trabalhando no seu código
 [Esse repositório](https://github.com/moveusp/QuestoesVueJs) está configurado como um template, ou seja, para desenvolver sua versão para entrega, simplesmente crie um novo repositório em sua conta utilizando esse template e desenvolva seu código nele, enviando posteriormente o link para seu repositório próprio.
 
-_Se precisar de uma ajuda para criar seu repositório com esse template, dê uma olhada [nesse guia!](https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664)_
+### Passo a passo
+Primeiro, clique em _"Use this template"_ na [página desse repositório](https://github.com/moveusp/QuestoesVueJs), como a seguir:
+
+![Inicial](https://raw.githubusercontent.com/moveusp/QuestoesVueJs/main/guia/rep.png)
+
+Isso deve redirecioná-lo à página de criação de seu repositório, apresentando uma página como a seguinte:
+
+![Criação](https://raw.githubusercontent.com/moveusp/QuestoesVueJs/main/guia/criacao.png)
+
+assim, insira o nome de seu repositório, **no formato 'PRIMEIRO NOME + ÚLTIMO SOBRENOME', em uma única palavra**, e crie seu repositório próprio, onde seu desenvolvimento deve ser feito.
 
 ## Configurando o projeto
 Uma vez com seu repositório próprio clonado, você precisará baixar as dependências necessárias e compilar e rodar seu código para visualizar suas modificações. Esses processos podem ser feitos como indicado abaixo, uma vez na pasta clonada:
